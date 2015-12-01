@@ -2,4 +2,4 @@ markdown: redcarpet
 permalink: /:year/:month/:title/
 url: http://nidaye.online
 author: 倪大野
-highlighter: rouge
+highlighter: pygments

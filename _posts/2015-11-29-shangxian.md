@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 个人博客上线
-tag: 博客
-categories: 博客
+tag: 上线
+categories: Blog
 ---
 
 心想不能再拖了，利用本周日一天时间，终于把这个－由两人共同运营－的个人博客折腾上线。
